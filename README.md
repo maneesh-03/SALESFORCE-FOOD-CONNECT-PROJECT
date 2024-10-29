@@ -6,7 +6,9 @@ KEMBURU MANEESH
 **College:** Gayatri Vidya Parishad College of Engineering (A), Visakhapatnam  
 **Email:** 21131A0593@gvpce.ac.in  
 
-### [Project Demonstration Video](https://youtu.be/sBvETQqh-6E?si=__1K343onr5UH6rY)
+### Project Demonstration Video
+[![Project Video](https://img.youtube.com/vi/sBvETQqh-6E/0.jpg)](https://youtu.be/sBvETQqh-6E?si=__1K343onr5UH6rY)
+
 
 ## 1. Project Overview
 
